@@ -87,3 +87,9 @@ for index, item in enumerate(courses, start=1):
 courses = ["History", "Math", "Physics", "CompSci"]
 courses_str = ", ".join(courses)
 print(courses_str)
+
+# turning string into a list
+new_list = courses_str.split(", ")
+print(courses_str)
+print(new_list)
+
