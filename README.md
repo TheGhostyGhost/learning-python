@@ -7,5 +7,7 @@
 
 # What's next?
 [x] Learned the basics
+
 [ ] Start first python project
+
 [ ] Start second Python project
